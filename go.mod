@@ -5,7 +5,7 @@ go 1.22
 require (
 	github.com/google/go-cmp v0.6.0
 	github.com/google/uuid v1.6.0
-	github.com/lstoll/oidc v1.0.0-beta.3
+	github.com/lstoll/oidc v1.0.0-beta.4
 	github.com/tink-crypto/tink-go/v2 v2.2.0
 	golang.org/x/crypto v0.30.0
 	golang.org/x/oauth2 v0.24.0
